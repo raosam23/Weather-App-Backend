@@ -33,4 +33,4 @@ This is the backend for the "Weather-App" web application. It provides the neces
    ```bash
     node ./index.js
     
-This will start the server at **localhost:5000**
+- This will start the server at **localhost:5000**
